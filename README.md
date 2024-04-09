@@ -7,3 +7,7 @@ Scripts and utilities to access, process and visualize data from NOAA's Joint Po
 **Downloading NOAA JPSS Public Datasets from Google Cloud and Displaying Data With CSPP Polar2Grid:**
 
 - **JPSS_Data_Download_Google_Cloud_Processing_Polar2Grid_DSouza.ipynb:** [Link](https://colab.research.google.com/drive/1Bxrl_muunTrMndjPwnpnE9JJpVUazGXf?usp=sharing)
+
+**NOAA-20 Satellite View of the Solar Eclipse from April 8 2024:**
+
+- **JPSS_Solar_Eclipse_2024.ipynb:** [Link](https://colab.research.google.com/drive/1rsXH9_8FQqz70Y22N7WlCWnQPlWbqPJv?usp=sharing)
