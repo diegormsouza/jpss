@@ -11,3 +11,7 @@ Scripts and utilities to access, process and visualize data from NOAA's Joint Po
 **NOAA-20 Satellite View of the Solar Eclipse from April 8 2024:**
 
 - **JPSS_Solar_Eclipse_2024.ipynb:** [Link](https://colab.research.google.com/drive/1rsXH9_8FQqz70Y22N7WlCWnQPlWbqPJv?usp=sharing)
+
+**Downloading and Visualizing Global Flood Products from NOAA and Visualizing on an Interactive Map:**
+
+- **JPSS_Solar_Eclipse_2024.ipynb:** [Link](https://colab.research.google.com/drive/1uR87Pho1jGnCTzad2bPvUQkY_4S05lmN?usp=sharing)
