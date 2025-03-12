@@ -14,4 +14,4 @@ Scripts and utilities to access, process and visualize data from NOAA's Joint Po
 
 **Downloading and Visualizing Global Flood Products from NOAA and Visualizing on an Interactive Map:**
 
-- **JPSS_Solar_Eclipse_2024.ipynb:** [Link](https://colab.research.google.com/drive/1uR87Pho1jGnCTzad2bPvUQkY_4S05lmN?usp=sharing)
+- **Flood_Map_Products_Python_DSouza.ipynb:** [Link](https://colab.research.google.com/drive/1uR87Pho1jGnCTzad2bPvUQkY_4S05lmN?usp=sharing)
